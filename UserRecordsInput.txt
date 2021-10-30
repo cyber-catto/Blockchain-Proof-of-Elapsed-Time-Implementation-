@@ -1,0 +1,7 @@
+000,Dexter,0
+101,Satoshi,6
+102,Mike,0
+103,HalFinn,2
+204,Alice,8
+205,Mike,2
+206,Bob,1
